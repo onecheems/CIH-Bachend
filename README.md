@@ -61,7 +61,3 @@ $ npm stop
 ### 开源协议
 
 Apache 2.0
-
-### 博客地址
-
-[小宇宙的前端客栈](https://yingyingyingyin.github.io/)
